@@ -1,0 +1,877 @@
+@media screen and (min-width:1024px)
+{
+*{
+
+padding:0px;
+
+margin:0px;
+
+}
+
+body{
+
+
+background-color:black;
+
+
+/*width:1323px;
+
+height:720px;*/
+
+
+
+}
+ header>img
+        {
+            width:420px;
+            height:170px;
+			margin-left:440px;
+            
+        }
+
+
+
+.reg{
+
+width:400px;
+
+height:650px;
+border:2px solid white;
+border-radius:5%;
+
+
+
+
+margin-left:460px;
+
+
+
+}
+
+h1{
+
+padding-top:20px;
+margin-left:10px;
+font-size:30px;
+color:white;
+
+}
+
+hr{
+
+color:#eb3349;
+
+}
+
+input[type="text"]{
+
+ padding: 20px 40px;
+
+ border:none;
+
+ background-color:black;
+
+ color:white;
+
+ border:3px solid white;
+ 
+border-radius:25px;
+
+ margin-top:70px;
+ 
+ margin-left:10px;
+
+ font-weight:600;
+
+}
+
+input[type="text"]{
+
+ padding: 20px 40px;
+
+ border:none;
+
+ background-color:black;
+
+ color:white;
+
+ border:3px solid white;
+border-radius:25px;
+ margin-top:30px;
+
+ font-weight:600;
+
+}
+input[type="text"]{
+
+ padding: 20px 40px;
+
+ border:none;
+
+ background-color:black;
+
+ color:white;
+
+ border:3px solid white;
+border-radius:25px;
+ margin-top:30px;
+
+ font-weight:600;
+
+}
+
+input[type="password"]{
+
+padding: 20px 40px;
+
+ border:none;
+
+ background-color:black;
+
+ color:white;
+
+ border:3px solid white;
+ border-radius:25px;
+ margin-top:30px;
+ margin-left:10px;
+
+ font-weight:600;
+
+}
+input[type="password"]{
+
+padding: 20px 40px;
+
+ border:none;
+
+ background-color:black;
+
+ color:white;
+
+ border:3px solid white;
+border-radius:25px;
+ margin-top:30px;
+
+ font-weight:600;
+
+}
+
+input[type="submit"]{
+
+ text-decoration:none;
+
+ color:black;
+
+ padding:10px 20px;
+
+ /*background-image:linear-gradient(#eb3349, #f45c43);*/
+ background-color:white;
+
+ font-size:18px;
+
+ font-weight:1000;
+
+ font-family:"Lucida Console", Monaco, monospace;
+
+ border-radius: 10px;
+
+ border:none;
+
+ margin-top:40px;
+ margin-left:10px;
+
+}
+
+.reg a{
+
+ text-decoration:none;
+
+ color:white;
+
+ padding:10px 20px;
+ 
+ font-family:"Lucida Console", Monaco, monospace;
+
+margin-left:10px;
+
+
+}
+
+
+
+
+
+
+
+.reg a:hover{
+
+ text-decoration:none;
+
+ color:black;
+
+ /*background-image:linear-gradient(#eb3349, #f45c43);*/
+ background-color:white;
+ 
+ border-radius: 10px;
+ 
+
+ }
+	
+}
+
+@media screen and (max-width:1024px) and (min-width:801px)
+{
+*{
+
+padding:0px;
+
+margin:0px;
+
+}
+
+body{
+
+
+background-color:black;
+
+
+/*width:1323px;
+
+height:720px;*/
+
+
+
+}
+ header>img
+        {
+            width:420px;
+            height:170px;
+			margin-left:320px;
+            
+        }
+
+
+
+.reg{
+
+width:400px;
+
+height:650px;
+border:2px solid white;
+border-radius:5%;
+
+
+
+
+margin-left:330px;
+
+
+
+}
+
+h1{
+
+padding-top:20px;
+margin-left:10px;
+font-size:30px;
+color:white;
+
+}
+
+hr{
+
+color:#eb3349;
+
+}
+
+input[type="text"]{
+
+ padding: 20px 40px;
+
+ border:none;
+
+ background-color:black;
+
+ color:white;
+
+ border:3px solid white;
+ 
+border-radius:25px;
+
+ margin-top:70px;
+ 
+ margin-left:10px;
+
+ font-weight:600;
+
+}
+
+input[type="text"]{
+
+ padding: 20px 40px;
+
+ border:none;
+
+ background-color:black;
+
+ color:white;
+
+ border:3px solid white;
+border-radius:25px;
+ margin-top:30px;
+
+ font-weight:600;
+
+}
+input[type="text"]{
+
+ padding: 20px 40px;
+
+ border:none;
+
+ background-color:black;
+
+ color:white;
+
+ border:3px solid white;
+border-radius:25px;
+ margin-top:30px;
+
+ font-weight:600;
+
+}
+
+input[type="password"]{
+
+padding: 20px 40px;
+
+ border:none;
+
+ background-color:black;
+
+ color:white;
+
+ border:3px solid white;
+ border-radius:25px;
+ margin-top:30px;
+ margin-left:10px;
+
+ font-weight:600;
+
+}
+input[type="password"]{
+
+padding: 20px 40px;
+
+ border:none;
+
+ background-color:black;
+
+ color:white;
+
+ border:3px solid white;
+border-radius:25px;
+ margin-top:30px;
+
+ font-weight:600;
+
+}
+
+input[type="submit"]{
+
+ text-decoration:none;
+
+ color:black;
+
+ padding:10px 20px;
+
+ /*background-image:linear-gradient(#eb3349, #f45c43);*/
+ background-color:white;
+
+ font-size:18px;
+
+ font-weight:1000;
+
+ font-family:"Lucida Console", Monaco, monospace;
+
+ border-radius: 10px;
+
+ border:none;
+
+ margin-top:40px;
+ margin-left:10px;
+
+}
+
+.reg a{
+
+ text-decoration:none;
+
+ color:white;
+
+ padding:10px 20px;
+ 
+ font-family:"Lucida Console", Monaco, monospace;
+
+margin-left:10px;
+
+
+}
+
+
+
+
+
+
+
+.reg a:hover{
+
+ text-decoration:none;
+
+ color:black;
+
+ /*background-image:linear-gradient(#eb3349, #f45c43);*/
+ background-color:white;
+ 
+ border-radius: 10px;
+ 
+
+ }
+	
+}
+
+@media screen and (max-width:801px) and (min-width:480px)
+{
+*{
+
+padding:0px;
+
+margin:0px;
+
+}
+
+body{
+
+
+background-color:black;
+
+
+/*width:1323px;
+
+height:720px;*/
+
+
+
+}
+ header>img
+        {
+            width:420px;
+            height:170px;
+			margin-left:200px;
+            
+        }
+
+
+
+.reg{
+
+width:400px;
+
+height:650px;
+border:2px solid white;
+border-radius:5%;
+
+
+
+
+margin-left:210px;
+
+
+
+}
+
+h1{
+
+padding-top:20px;
+margin-left:10px;
+font-size:30px;
+color:white;
+
+}
+
+hr{
+
+color:#eb3349;
+
+}
+
+input[type="text"]{
+
+ padding: 20px 40px;
+
+ border:none;
+
+ background-color:black;
+
+ color:white;
+
+ border:3px solid white;
+ 
+border-radius:25px;
+
+ margin-top:70px;
+ 
+ margin-left:10px;
+
+ font-weight:600;
+
+}
+
+input[type="text"]{
+
+ padding: 20px 40px;
+
+ border:none;
+
+ background-color:black;
+
+ color:white;
+
+ border:3px solid white;
+border-radius:25px;
+ margin-top:30px;
+
+ font-weight:600;
+
+}
+input[type="text"]{
+
+ padding: 20px 40px;
+
+ border:none;
+
+ background-color:black;
+
+ color:white;
+
+ border:3px solid white;
+border-radius:25px;
+ margin-top:30px;
+
+ font-weight:600;
+
+}
+
+input[type="password"]{
+
+padding: 20px 40px;
+
+ border:none;
+
+ background-color:black;
+
+ color:white;
+
+ border:3px solid white;
+ border-radius:25px;
+ margin-top:30px;
+ margin-left:10px;
+
+ font-weight:600;
+
+}
+input[type="password"]{
+
+padding: 20px 40px;
+
+ border:none;
+
+ background-color:black;
+
+ color:white;
+
+ border:3px solid white;
+border-radius:25px;
+ margin-top:30px;
+
+ font-weight:600;
+
+}
+
+input[type="submit"]{
+
+ text-decoration:none;
+
+ color:black;
+
+ padding:10px 20px;
+
+ /*background-image:linear-gradient(#eb3349, #f45c43);*/
+ background-color:white;
+
+ font-size:18px;
+
+ font-weight:1000;
+
+ font-family:"Lucida Console", Monaco, monospace;
+
+ border-radius: 10px;
+
+ border:none;
+
+ margin-top:40px;
+ margin-left:10px;
+
+}
+
+.reg a{
+
+ text-decoration:none;
+
+ color:white;
+
+ padding:10px 20px;
+ 
+ font-family:"Lucida Console", Monaco, monospace;
+
+margin-left:10px;
+
+
+}
+
+
+
+
+
+
+
+.reg a:hover{
+
+ text-decoration:none;
+
+ color:black;
+
+ /*background-image:linear-gradient(#eb3349, #f45c43);*/
+ background-color:white;
+ 
+ border-radius: 10px;
+ 
+
+ }
+	
+}
+
+@media screen and (max-width:480px)
+
+{
+*{
+
+padding:0px;
+
+margin:0px;
+
+}
+
+body{
+
+
+background-color:black;
+
+}
+ header>img
+        {
+            width:340px;
+            height:170px;
+			margin-left:50px;
+            
+        }
+
+
+
+.reg{
+
+width:400px;
+
+height:650px;
+border:2px solid white;
+border-radius:5%;
+
+
+
+
+margin-left:25px;
+
+
+
+}
+
+h1{
+
+padding-top:20px;
+margin-left:10px;
+font-size:30px;
+color:white;
+
+}
+
+hr{
+
+color:#eb3349;
+
+}
+
+input[type="text"]{
+
+ padding: 20px 40px;
+
+ border:none;
+
+ background-color:black;
+
+ color:white;
+
+ border:3px solid white;
+ 
+border-radius:25px;
+
+ margin-top:70px;
+ 
+ margin-left:10px;
+
+ font-weight:600;
+
+}
+
+input[type="text"]{
+
+ padding: 20px 40px;
+
+ border:none;
+
+ background-color:black;
+
+ color:white;
+
+ border:3px solid white;
+border-radius:25px;
+ margin-top:30px;
+
+ font-weight:600;
+
+}
+input[type="text"]{
+
+ padding: 20px 40px;
+
+ border:none;
+
+ background-color:black;
+
+ color:white;
+
+ border:3px solid white;
+border-radius:25px;
+ margin-top:30px;
+
+ font-weight:600;
+
+}
+
+input[type="password"]{
+
+padding: 20px 40px;
+
+ border:none;
+
+ background-color:black;
+
+ color:white;
+
+ border:3px solid white;
+ border-radius:25px;
+ margin-top:30px;
+ margin-left:10px;
+
+ font-weight:600;
+
+}
+input[type="password"]{
+
+padding: 20px 40px;
+
+ border:none;
+
+ background-color:black;
+
+ color:white;
+
+ border:3px solid white;
+border-radius:25px;
+ margin-top:30px;
+
+ font-weight:600;
+
+}
+
+input[type="submit"]{
+
+ text-decoration:none;
+
+ color:black;
+
+ padding:10px 20px;
+
+ /*background-image:linear-gradient(#eb3349, #f45c43);*/
+ background-color:white;
+
+ font-size:18px;
+
+ font-weight:1000;
+
+ font-family:"Lucida Console", Monaco, monospace;
+
+ border-radius: 10px;
+
+ border:none;
+
+ margin-top:40px;
+ margin-left:10px;
+
+}
+
+.reg a{
+
+ text-decoration:none;
+
+ color:white;
+
+ padding:10px 20px;
+ 
+ font-family:"Lucida Console", Monaco, monospace;
+
+margin-left:10px;
+
+
+}
+
+
+
+
+
+
+
+.reg a:hover{
+
+ text-decoration:none;
+
+ color:black;
+
+ /*background-image:linear-gradient(#eb3349, #f45c43);*/
+ background-color:white;
+ 
+ border-radius: 10px;
+ 
+
+ }
+	
+}

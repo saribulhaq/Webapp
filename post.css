@@ -1,0 +1,482 @@
+@media screen and (min-width:1024px)
+{
+*{
+
+padding:0;
+
+margin:0;
+
+}
+
+body{
+
+
+background-color:black;
+
+
+/*width:1323px;
+
+height:720px;*/
+
+
+
+}
+
+ header>img
+        {
+            width:350px;
+            height:120px;
+			margin-left:480px;
+			margin-top:20px;
+            
+        }
+
+.back img
+{
+	width:50px;
+	height:50px;
+	position:absolute;
+	top:40px;
+	left:20px;
+	
+}
+.back a>img:hover{
+
+ text-decoration:none;
+
+ color:black;
+
+ 
+ background-color:red;
+ border:2px solid red;
+ border-radius: 50%;
+}
+
+
+
+.pfpic img
+{
+	width:300px;
+	height:300px;
+	position:absolute;
+	left:500px;
+	top:100px;
+	border-radius:10px;
+	border:2px solid white
+}
+.pfpic input[type='text']
+{
+	width:320px;
+	height:40px;
+	position:absolute;
+	left:493px;
+	top:415px;
+	border:2px solid white;
+	border-radius:20px;
+	background-color:black;
+	color:white;
+	font-size:15px;
+	text-align:center;
+}
+.pfpic input[type='file']
+{
+	position:absolute;
+	left:590px;
+	top:520px;	
+}
+
+::-webkit-file-upload-button
+{
+	color:#34495e;
+	font-size:13px;
+	font-family:Arial Black;
+	background:white;
+	padding:18px;
+	border:none;
+	border-radius:50px; 
+	outline:none;
+}
+::-webkit-file-upload-button:hover
+{
+	color:white;
+	border:2px solid white;
+	background:black;
+}
+.upload button
+{
+	width:150px;
+	height:40px;
+	background-color:white;
+	color:#34495e;
+	text-decoration:none;
+	font-size:17px;
+	position:absolute;
+	top:500px;
+	right:40px;
+	border:2px solid white;
+	border-radius:20px;
+	
+}
+.upload button:hover
+{
+	background-color:black;
+	color:white;
+}
+}
+
+@media screen and (max-width:1024px) and (min-width:801px)
+{
+*{
+
+padding:0;
+
+margin:0;
+
+}
+
+body{
+
+
+background-color:black;
+
+}
+
+ header>img
+        {
+            width:350px;
+            height:120px;
+			margin-left:480px;
+			margin-top:20px;
+            
+        }
+
+.back img
+{
+	width:50px;
+	height:50px;
+	position:absolute;
+	top:40px;
+	left:20px;
+	
+}
+.back a>img:hover{
+
+ text-decoration:none;
+
+ color:black;
+
+ 
+ background-color:red;
+ border:2px solid red;
+ border-radius: 50%;
+}
+
+
+
+.pfpic img
+{
+	width:300px;
+	height:300px;
+	position:absolute;
+	left:390px;
+	top:100px;
+	border-radius:10px;
+	border:2px solid white
+}
+.pfpic input[type='text']
+{
+	width:320px;
+	height:40px;
+	position:absolute;
+	left:385px;
+	top:415px;
+	border:2px solid white;
+	border-radius:20px;
+	background-color:black;
+	color:white;
+	font-size:15px;
+	text-align:center;
+}
+.pfpic input[type='file']
+{
+	position:absolute;
+	left:480px;
+	top:520px;	
+}
+
+::-webkit-file-upload-button
+{
+	color:#34495e;
+	font-size:13px;
+	font-family:Arial Black;
+	background:white;
+	padding:18px;
+	border:none;
+	border-radius:50px; 
+	outline:none;
+}
+::-webkit-file-upload-button:hover
+{
+	color:white;
+	border:2px solid white;
+	background:black;
+}
+.upload button
+{
+	width:150px;
+	height:40px;
+	background-color:white;
+	color:#34495e;
+	text-decoration:none;
+	font-size:17px;
+	position:absolute;
+	top:500px;
+	right:60px;
+	border:2px solid white;
+	border-radius:20px;
+	
+}
+.upload button:hover
+{
+	background-color:black;
+	color:white;
+}
+}
+
+@media screen and (max-width:801px) and (min-width:480px)
+{
+*{
+
+padding:0;
+
+margin:0;
+
+}
+
+body{
+
+
+background-color:black;
+
+}
+
+ header>img
+        {
+            width:350px;
+            height:120px;
+			margin-left:480px;
+			margin-top:20px;
+            
+        }
+
+.back img
+{
+	width:50px;
+	height:50px;
+	position:absolute;
+	top:40px;
+	left:20px;
+	
+}
+.back a>img:hover{
+
+ text-decoration:none;
+
+ color:black;
+
+ 
+ background-color:red;
+ border:2px solid red;
+ border-radius: 50%;
+}
+
+
+
+.pfpic img
+{
+	width:300px;
+	height:300px;
+	position:absolute;
+	left:250px;
+	top:100px;
+	border-radius:10px;
+	border:2px solid white
+}
+.pfpic input[type='text']
+{
+	width:320px;
+	height:40px;
+	position:absolute;
+	left:242px;
+	top:415px;
+	border:2px solid white;
+	border-radius:20px;
+	background-color:black;
+	color:white;
+	font-size:15px;
+	text-align:center;
+}
+.pfpic input[type='file']
+{
+	position:absolute;
+	left:340px;
+	top:470px;	
+}
+
+::-webkit-file-upload-button
+{
+	color:#34495e;
+	font-size:13px;
+	font-family:Arial Black;
+	background:white;
+	padding:18px;
+	border:none;
+	border-radius:50px; 
+	outline:none;
+}
+::-webkit-file-upload-button:hover
+{
+	color:white;
+	border:2px solid white;
+	background:black;
+}
+.upload button
+{
+	width:150px;
+	height:40px;
+	background-color:white;
+	color:#34495e;
+	text-decoration:none;
+	font-size:17px;
+	position:absolute;
+	top:520px;
+	right:40px;
+	border:2px solid white;
+	border-radius:20px;
+	
+}
+.upload button:hover
+{
+	background-color:black;
+	color:white;
+}
+}
+
+@media screen and (max-width:480px)
+{
+*{
+
+padding:0;
+
+margin:0;
+
+}
+
+body{
+
+
+background-color:black;
+
+}
+
+ header>img
+        {
+            width:350px;
+            height:120px;
+			margin-left:480px;
+			margin-top:10px;
+            
+        }
+
+.back img
+{
+	width:50px;
+	height:50px;
+	position:absolute;
+	top:40px;
+	left:10px;
+	
+}
+.back a>img:hover{
+
+ text-decoration:none;
+
+ color:black;
+
+ 
+ background-color:red;
+ border:2px solid red;
+ border-radius: 50%;
+}
+
+
+
+.pfpic img
+{
+	width:300px;
+	height:300px;
+	position:absolute;
+	left:90px;
+	top:150px;
+	border-radius:10px;
+	border:2px solid white
+}
+.pfpic input[type='text']
+{
+	width:320px;
+	height:40px;
+	position:absolute;
+	left:85px;
+	top:465px;
+	border:2px solid white;
+	border-radius:20px;
+	background-color:black;
+	color:white;
+	font-size:15px;
+	text-align:center;
+}
+.pfpic input[type='file']
+{
+	position:absolute;
+	left:90px;
+	top:520px;	
+}
+
+::-webkit-file-upload-button
+{
+	color:#34495e;
+	font-size:13px;
+	font-family:Arial Black;
+	background:white;
+	padding:18px;
+	border:none;
+	border-radius:50px; 
+	outline:none;
+}
+::-webkit-file-upload-button:hover
+{
+	color:white;
+	border:2px solid white;
+	background:black;
+}
+.upload button
+{
+	width:150px;
+	height:40px;
+	background-color:white;
+	color:#34495e;
+	text-decoration:none;
+	font-size:17px;
+	position:absolute;
+	top:590px;
+	right:40px;
+	border:2px solid white;
+	border-radius:20px;
+	
+}
+.upload button:hover
+{
+	background-color:black;
+	color:white;
+}
+}
